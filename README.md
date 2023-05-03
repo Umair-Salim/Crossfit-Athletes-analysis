@@ -62,7 +62,8 @@ I have performed exploratory data analysis on the dataset to answer the question
 ___
 ########~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#########
 ## Interactive Dashboard
-
+I created an Interactive dashboard report using Power BI. The dashboard can be found [here](https://app.powerbi.com/groups/me/reports/11d1ab98-b5bd-4411-af1c-aea68d0df236/ReportSection)
+![image](dashboardbi.jpg)
 ____
 ########~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#########
 ## Report
