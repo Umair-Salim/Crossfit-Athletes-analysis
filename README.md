@@ -1,6 +1,6 @@
 **<h1 style="text-align: center;"> Crossfit Data Analysis Project</h1>**
 ---
-![image](images/crossfitnike.png)
+![image](crossfitnike.png)
 ## Table of Contents
 - [** Crossfit Data Analysis Project**](#-crossfit-data-analysis-project)
 - [Table of Contents](#table-of-contents)
