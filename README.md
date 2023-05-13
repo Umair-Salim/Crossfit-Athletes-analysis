@@ -67,8 +67,8 @@ I created an Interactive dashboard report using Power BI. The dashboard can be f
 ____
 ########~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#########
 ## Report
-___
-########~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#########
+Keeping in mind an imaginary Fitness company, I assembled a presentation fot the stakeholders of the company. This presentation highlightes the key findings of the analysis and the dashboard which can benefit the company in making decisions.This presentation named Data Analysis.pdf is listed aboce in the repositry, it can be downloaded and viewed.
+
 ____
 ########~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#########
 ## Word Glossary
